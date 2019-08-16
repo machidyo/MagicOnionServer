@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicOnionServer", "MagicOnionServer\MagicOnionServer.csproj", "{CB49BF89-B24C-42FA-9C40-71FDDB6E975A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicOnionServerDefinition", "MagicOnionServerDifinition\MagicOnionServerDefinition.csproj", "{63DF18FD-4093-4252-A564-E60E4B22F6F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicOnionServerDefinition", "MagicOnionServerDefinition\MagicOnionServerDefinition.csproj", "{63DF18FD-4093-4252-A564-E60E4B22F6F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MagicOnionServerDifinition\MagicOnionServerDefinition.csproj" />
+    <ProjectReference Include="..\MagicOnionServerDefinition\MagicOnionServerDefinition.csproj" />
   </ItemGroup>
 
 </Project>
